@@ -14,3 +14,5 @@ class StockCreateAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Stock,StockCreateAdmin)
+
+
